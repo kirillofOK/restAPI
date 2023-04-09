@@ -1,0 +1,7 @@
+{
+    "explorer.compactFolders": false,
+    "explorer.confirmUndo": "default",
+    "explorer.expandSingleFolderWorkspaces": true,
+    "explorer.fileNesting.enabled": false,
+    "search.defaultViewMode": "list"
+}
